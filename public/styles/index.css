@@ -1,0 +1,49 @@
+body {
+  background-color: #f2d7b6;
+  min-width: 200px;
+}
+
+h1 {
+  color: #40352c;
+}
+
+main {
+  background-color: #a69485;
+}
+
+.border {
+  border-color: #40352c !important;
+}
+
+form,
+.post,
+.modal-header,
+.modal-body,
+.modal-footer {
+  background-color: #d9ccc1;
+}
+
+.btn-custom {
+  background-color: #40352c;
+  color: white;
+}
+.btn-custom:hover {
+  background-color: #736355;
+  color: white;
+}
+
+.btn-custom-reverted {
+  border-color: #40352c;
+  color: #40352c;
+}
+.btn-custom-reverted:hover {
+  background-color: #736355;
+  color: white;
+}
+
+footer svg {
+  fill: #40352c !important;
+}
+footer svg:hover {
+  fill: #736355 !important;
+}
